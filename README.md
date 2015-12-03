@@ -28,4 +28,5 @@ The [Shoptiques](http://shoptiques.com/) engineering team reads. A lot.
 - [Simplify Your Life With an SSH Config File](http://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/) by Joël Perras
 
 ### Miscellaneous
+- [We Don't Sell Saddles Here](https://medium.com/@stewart/we-dont-sell-saddles-here-4c59524d650d?source=tw-905a8092bafe-1434557784621) by Stewart Butterfield
 - [On Bullshit](http://www.csudh.edu/ccauthen/576f12/frankfurt__harry_-_on_bullshit.pdf) by Harry Frankfurt
