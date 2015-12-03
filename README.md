@@ -1,9 +1,11 @@
-# Shoptiques reads
-
 The [Shoptiques](http://shoptiques.com/) engineering team reads. A lot.
+
+### Table of Contents
 
   - [Tech](#tech)
   - [Miscellaneous](#miscellaneous)
+
+---
 
 ### Tech
 
