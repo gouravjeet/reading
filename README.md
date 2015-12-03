@@ -3,11 +3,17 @@ The [Shoptiques](http://shoptiques.com/) engineering team reads. A lot.
 ### Table of Contents
 
   - [Tech](#tech)
+    - [Algorithms](#algorithms)
+    - [CSS](#css)
+    - [Misc](#misc)
   - [Miscellaneous](#miscellaneous)
 
 ---
 
 ### Tech
+
+##### Algorithms
+- [The Algorithm Design Manual](http://sist.sysu.edu.cn/~isslxm/DSA/textbook/Skiena.-.TheAlgorithmDesignManual.pdf) by Steven S. Skiena
 
 ##### CSS
 - [Centering in the Unknown](https://css-tricks.com/centering-in-the-unknown/) by Chris Coyier
