@@ -11,6 +11,7 @@ The [Shoptiques](http://shoptiques.com/) engineering team reads. A lot.
 
 ##### CSS
 - [Centering in the Unknown](https://css-tricks.com/centering-in-the-unknown/) by Chris Coyier
+- [Fighting the Space Between Inline Block Elements](https://css-tricks.com/fighting-the-space-between-inline-block-elements/) by Chris Coyier
 
 ##### Misc.
 - [Simplify Your Life With an SSH Config File](http://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/) by Joël Perras
