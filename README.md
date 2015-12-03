@@ -20,8 +20,8 @@ The [Shoptiques](http://shoptiques.com/) engineering team reads. A lot.
 - [Fighting the Space Between Inline Block Elements](https://css-tricks.com/fighting-the-space-between-inline-block-elements/) by Chris Coyier
 
 ##### Misc.
+- [A Beginners Guide to Big O Notation](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/) by Rob Bell
 - [Simplify Your Life With an SSH Config File](http://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/) by Joël Perras
 
 ### Miscellaneous
-
 - [On Bullshit](http://www.csudh.edu/ccauthen/576f12/frankfurt__harry_-_on_bullshit.pdf) by Harry Frankfurt
