@@ -8,4 +8,4 @@ The [Shoptiques](http://shoptiques.com/) engineering team reads. A lot.
 ### Tech
 ### Miscellaneous
 
-["On Bullshit"](http://www.csudh.edu/ccauthen/576f12/frankfurt__harry_-_on_bullshit.pdf)
+- ["On Bullshit"](http://www.csudh.edu/ccauthen/576f12/frankfurt__harry_-_on_bullshit.pdf) by Harry Frankfurt
