@@ -5,6 +5,7 @@ The [Shoptiques](http://shoptiques.com/) engineering team reads. A lot.
   - [Tech](#tech)
     - [Algorithms](#algorithms)
     - [CSS](#css)
+    - [iOS](#ios)
     - [Misc](#misc)
   - [Miscellaneous](#miscellaneous)
 
@@ -18,6 +19,9 @@ The [Shoptiques](http://shoptiques.com/) engineering team reads. A lot.
 ##### CSS
 - [Centering in the Unknown](https://css-tricks.com/centering-in-the-unknown/) by Chris Coyier
 - [Fighting the Space Between Inline Block Elements](https://css-tricks.com/fighting-the-space-between-inline-block-elements/) by Chris Coyier
+
+##### iOS
+- [A Complete Core Data Application](https://www.objc.io/issues/4-core-data/full-core-data-application/) by Chris Eidhof
 
 ##### Misc.
 - [A Beginners Guide to Big O Notation](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/) by Rob Bell
