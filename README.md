@@ -23,6 +23,9 @@ The [Shoptiques](http://shoptiques.com/) engineering team reads. A lot.
 ##### iOS
 - [A Complete Core Data Application](https://www.objc.io/issues/4-core-data/full-core-data-application/) by Chris Eidhof
 
+##### JavaScript
+- [Original jQuery source code, annotated](http://genius.com/5088475/ejohn.org/files/jquery-original.html) by John Resig
+
 ##### Misc.
 - [The Beauty of Code](http://www.theparisreview.org/blog/2014/09/05/the-beauty-of-code/) by Vikram Chandra
 - [A Beginners Guide to Big O Notation](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/) by Rob Bell
