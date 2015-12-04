@@ -29,6 +29,7 @@ The [Shoptiques](http://shoptiques.com/) engineering team reads. A lot.
 
 ##### Misc.
 - [The Beauty of Code](http://www.theparisreview.org/blog/2014/09/05/the-beauty-of-code/) by Vikram Chandra
+- [Coding Like A Girl](https://medium.com/@sailorhg/coding-like-a-girl-595b90791cce#.h8tyautnf) by Sailor Mercury
 - [A Beginners Guide to Big O Notation](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/) by Rob Bell
 - [Simplify Your Life With an SSH Config File](http://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/) by Joël Perras
 
