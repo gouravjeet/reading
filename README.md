@@ -6,6 +6,7 @@ The [Shoptiques](http://shoptiques.com/) engineering team reads. A lot.
     - [Algorithms](#algorithms)
     - [CSS](#css)
     - [iOS](#ios)
+    - [JavaScript](#javascript)
     - [Misc](#misc)
   - [Miscellaneous](#miscellaneous)
 
