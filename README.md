@@ -24,6 +24,7 @@ The [Shoptiques](http://shoptiques.com/) engineering team reads. A lot.
 - [A Complete Core Data Application](https://www.objc.io/issues/4-core-data/full-core-data-application/) by Chris Eidhof
 
 ##### Misc.
+- [The Beauty of Code](http://www.theparisreview.org/blog/2014/09/05/the-beauty-of-code/) by Vikram Chandra
 - [A Beginners Guide to Big O Notation](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/) by Rob Bell
 - [Simplify Your Life With an SSH Config File](http://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/) by Joël Perras
 
