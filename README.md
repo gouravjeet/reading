@@ -32,6 +32,9 @@ The [Shoptiques](http://shoptiques.com/) engineering team reads. A lot.
 - [Coding Like A Girl](https://medium.com/@sailorhg/coding-like-a-girl-595b90791cce#.h8tyautnf) by Sailor Mercury
 - [A Beginners Guide to Big O Notation](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/) by Rob Bell
 - [Simplify Your Life With an SSH Config File](http://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/) by Joël Perras
+##### Groovy on Grails
+- [Programming Grails] (http://file.allitebooks.com/20150627/Programming%20Grails.pdf) by Burt Beckwith 
+- [Groovy DSL] (https://dzone.com/articles/groovy-dsl-simple-example) by Nirav Assar
 
 ### Miscellaneous
 - [We Don't Sell Saddles Here](https://medium.com/@stewart/we-dont-sell-saddles-here-4c59524d650d?source=tw-905a8092bafe-1434557784621) by Stewart Butterfield
